@@ -151,4 +151,7 @@ These checks are simple clues, not a security verdict. Some legitimate URLs may 
 
 ## Author
 
-Update this section with your own name, batch/course, and any details requested by your coordinator.
+Student Name: Wafa Unnisa B
+Batch: AI Powered Cybersecurity Internship
+Project: EWB Phishing URL Awareness Checker
+Programming Language: Python
